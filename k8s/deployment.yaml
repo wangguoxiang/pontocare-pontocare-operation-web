@@ -24,7 +24,7 @@ spec:
       terminationGracePeriodSeconds: 30
       containers:
         - name: operation-web
-          image: registry.pontosense.net/pontocare/pontocare-operation-web:latest
+          image: registry.pontosense.net/pontocare/pontocare-operation-web:bbf745e
           imagePullPolicy: Always
           ports:
             - containerPort: 80
@@ -101,17 +101,16 @@ metadata:
   name: pontocare-operation-web
   namespace: pontocare
   annotations:
-    nginx.ingress.kubernetes.io/rewrite-target: /
-    nginx.ingress.kubernetes.io/ssl-redirect: "true"
-    nginx.ingress.kubernetes.io/proxy-body-size: 8m
+    higress.io/ssl-redirect: "true"
+    higress.io/proxy-body-size: "8m"
 spec:
-  ingressClassName: nginx
+  ingressClassName: higress
   tls:
     - hosts:
-        - pc-admin.pontosense.net
-      secretName: pontosense-tls
+        - www.zhijia365.cn
+      secretName: headlamp-zhijia365-tls
   rules:
-    - host: pc-admin.pontosense.net
+    - host: www.zhijia365.cn
       http:
         paths:
           - path: /
