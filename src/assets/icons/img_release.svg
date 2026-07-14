@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>img/img_release</title>
+    <defs>
+        <linearGradient x1="11.3632886%" y1="4.09244116%" x2="97.6079633%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#3A79EE" offset="0%"></stop>
+            <stop stop-color="#A3C3FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-6.82613688e-14%" y1="67.2362003%" x2="55.062921%" y2="59.4618748%" id="linearGradient-2">
+            <stop stop-color="#72A3FF" offset="0%"></stop>
+            <stop stop-color="#B5CEFD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="55.6475686%" y1="18.1543575%" x2="46.1630712%" y2="96.5292605%" id="linearGradient-3">
+            <stop stop-color="#3A79EE" offset="0%"></stop>
+            <stop stop-color="#A3C3FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="6.7620764%" y1="61.4709052%" x2="61.9881094%" y2="48.0360991%" id="linearGradient-4">
+            <stop stop-color="#3A79EE" offset="0%"></stop>
+            <stop stop-color="#D6E4FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="img/img_release" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <ellipse id="椭圆形" fill="#D8E6FF" cx="50" cy="95.5" rx="47" ry="3.5"></ellipse>
+        <circle id="椭圆形" fill="url(#linearGradient-1)" opacity="0.517981393" cx="18" cy="13" r="2"></circle>
+        <polygon id="矩形" fill="url(#linearGradient-2)" points="88 7.5 34 53 4.5 37.5"></polygon>
+        <polygon id="矩形备份-2" fill="url(#linearGradient-3)" points="88 7.5 52.5 61.5 39.5 88 34 53"></polygon>
+        <polygon id="矩形备份-2" fill="#3A79EE" points="88 7.5 52.5 61.5 39.5 88 52.5 67.5"></polygon>
+        <polygon id="矩形备份" fill="url(#linearGradient-4)" points="88 7.5 88 80 52.5 61.5"></polygon>
+    </g>
+</svg>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pic_empty_01</title>
+    <defs>
+        <linearGradient x1="21.7453842%" y1="32.4701922%" x2="79.787668%" y2="96.2047842%" id="linearGradient-1">
+            <stop stop-color="#D3E3FF" offset="0%"></stop>
+            <stop stop-color="#99BDFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="44.8887504%" y1="58.0538168%" x2="54.3304024%" y2="19.8007345%" id="linearGradient-2">
+            <stop stop-color="#80ABFB" offset="0%"></stop>
+            <stop stop-color="#DAE7FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="46.101674%" y1="53.518659%" x2="55.052509%" y2="24.3177446%" id="linearGradient-3">
+            <stop stop-color="#6C95E1" offset="0%"></stop>
+            <stop stop-color="#C1D7FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="13.3555641%" y1="39.5035313%" x2="77.1900337%" y2="53.7933433%" id="linearGradient-4">
+            <stop stop-color="#E0EBFF" offset="0%"></stop>
+            <stop stop-color="#CDDFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="8.45771067%" y1="40.2067365%" x2="97.6079633%" y2="59.9649235%" id="linearGradient-5">
+            <stop stop-color="#467DE4" stop-opacity="0.90739729" offset="0%"></stop>
+            <stop stop-color="#B1CCFF" stop-opacity="0.9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="PCTB租户后端管理" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Members_No-date" transform="translate(-690, -297)">
+            <g id="pic_empty_01" transform="translate(693.3333, 307)">
+                <path d="M18.9970501,0 L74.3362832,0 L93.3333333,38.3333333 L93.3333333,76.6666667 C93.3333333,78.5076158 91.8409492,80 90,80 L3.33333333,80 C1.49238417,80 -4.32816647e-15,78.5076158 -4.4408921e-15,76.6666667 L0,38.3333333 L0,38.3333333 L18.9970501,0 Z" id="矩形" fill="url(#linearGradient-1)"></path>
+                <path d="M19.1666667,1.02318154e-12 L0,38.3333333 L0,73.75 L0,76.6666667 C2.2545125e-16,78.5076158 1.49238417,80 3.33333333,80 L3.33333333,80 L3.33333333,80 L19.1666667,29.1666667 L19.1666667,1.02318154e-12 Z" id="路径-2" fill="url(#linearGradient-2)"></path>
+                <path d="M93.3333333,0 L74.1666667,38.3333333 L74.1666667,73.75 L74.1666667,76.6666667 C74.1666667,78.5076158 75.6590508,80 77.5,80 L77.5,80 L77.5,80 L93.3333333,29.1666667 L93.3333333,0 Z" id="路径-2" fill="url(#linearGradient-3)" transform="translate(83.75, 40) scale(-1, 1) translate(-83.75, -40)"></path>
+                <polygon id="矩形" fill="url(#linearGradient-4)" points="19.1666667 0 74.1666667 0 74.1666667 29.1666667 19.1666667 29.1666667"></polygon>
+                <path d="M93.3333333,38.3333333 L93.3333333,76.6666667 C93.3333333,78.5076158 91.8541561,80 90.0294985,80 L3.30383481,80 C1.47917723,80 0,78.5076158 0,76.6666667 L0,38.3333333 L25.8779727,38.3333333 C26.6911182,38.3333333 27.4534622,38.7288052 27.9217591,39.3935635 L32.490795,45.8794148 L32.490795,45.8794148 C33.5319148,47.3573123 35.1920224,48.2591779 36.979387,48.3289625 L37.2034348,48.3333333 L57.5111516,48.3333333 C59.4056152,48.3333333 61.1746901,47.3974278 62.2530201,45.8375591 L62.379068,45.6473998 L66.2875435,39.4930763 C66.7462139,38.7708495 67.5423611,38.3333333 68.3979253,38.3333333 L93.3333333,38.3333333 L93.3333333,38.3333333 Z" id="路径" fill="url(#linearGradient-5)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

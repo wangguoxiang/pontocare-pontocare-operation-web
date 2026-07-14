@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>img/img_error</title>
+    <defs>
+        <linearGradient x1="11.3632886%" y1="4.09244116%" x2="97.6079633%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#3A79EE" offset="0%"></stop>
+            <stop stop-color="#A3C3FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="11.3632886%" y1="25.8515468%" x2="97.6079633%" y2="76.3011733%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#CADCFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Vision-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="TF4.2_Room-Details_Fireware" transform="translate(-147, -299)">
+            <g id="编组" transform="translate(16, 269)">
+                <g id="img/img_error" transform="translate(134, 32)">
+                    <circle id="椭圆形" fill="url(#linearGradient-1)" cx="47" cy="44" r="38"></circle>
+                    <ellipse id="椭圆形" fill="#D8E6FF" cx="47" cy="93.5" rx="47" ry="3.5"></ellipse>
+                    <circle id="椭圆形" fill="url(#linearGradient-1)" opacity="0.517981393" cx="20" cy="2" r="2"></circle>
+                    <circle id="椭圆形备份" fill="#D8E6FF" cx="87" cy="76" r="2"></circle>
+                    <circle id="椭圆形备份-2" fill="url(#linearGradient-1)" cx="8.5" cy="13.5" r="3.5"></circle>
+                    <path d="M61.5083807,29.4210903 C63.484958,27.4927222 66.6505417,27.5318035 68.5789097,29.5083807 C70.4505611,31.4268234 70.4687935,34.4653594 68.6609943,36.4056106 L68.4916193,36.5789097 L45.9916193,59.5789097 C44.0916482,61.4325401 41.0888182,61.4705308 39.1436601,59.706218 L38.9644661,59.5355339 L25.9644661,46.5355339 C24.0118446,44.5829124 24.0118446,41.4170876 25.9644661,39.4644661 C27.8579172,37.571015 30.8921583,37.5136377 32.8547482,39.2923342 L33.0355339,39.4644661 L42.543,48.972 L61.5083807,29.4210903 Z" id="直线" fill="url(#linearGradient-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>img/img_prohibit</title>
+    <defs>
+        <linearGradient x1="11.3632886%" y1="4.09244116%" x2="97.6079633%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#3A79EE" offset="0%"></stop>
+            <stop stop-color="#A3C3FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="11.3632886%" y1="46.8208062%" x2="97.6079633%" y2="53.4626039%" id="linearGradient-2">
+            <stop stop-color="#3A79EE" offset="0%"></stop>
+            <stop stop-color="#A3C3FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="img/img_prohibit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <ellipse id="椭圆形" fill="#D8E6FF" cx="50" cy="95.5" rx="47" ry="3.5"></ellipse>
+        <circle id="椭圆形" fill="url(#linearGradient-1)" opacity="0.517981393" cx="23" cy="4" r="2"></circle>
+        <circle id="椭圆形备份" fill="#D8E6FF" cx="90" cy="78" r="2"></circle>
+        <circle id="椭圆形备份-2" fill="url(#linearGradient-1)" cx="11.5" cy="15.5" r="3.5"></circle>
+        <path d="M50,8 C70.9868205,8 88,25.0131795 88,46 C88,66.9868205 70.9868205,84 50,84 C29.0131795,84 12,66.9868205 12,46 C12,25.0131795 29.0131795,8 50,8 Z M50,19 C35.0883118,19 23,31.0883118 23,46 C23,60.9116882 35.0883118,73 50,73 C64.9116882,73 77,60.9116882 77,46 C77,31.0883118 64.9116882,19 50,19 Z" id="形状结合" fill="url(#linearGradient-1)"></path>
+        <rect id="矩形" fill="url(#linearGradient-2)" x="31" y="41" width="38" height="10" rx="5"></rect>
+    </g>
+</svg>

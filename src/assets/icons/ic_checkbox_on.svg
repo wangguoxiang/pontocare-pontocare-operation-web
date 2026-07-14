@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Check box/ic_checkbox_on</title>
+    <g id="Check-box/ic_checkbox_on" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="矩形" fill="#325BF2" x="0" y="0" width="20" height="20" rx="4"></rect>
+        <path d="M15.2689447,5.31768175 C15.6457787,4.91393107 16.2785676,4.89211077 16.6823183,5.26894473 C17.0860689,5.6457787 17.1078892,6.27856757 16.7310553,6.68231825 L9.73105527,14.1823183 C9.32913369,14.6129485 8.64393616,14.6046275 8.25259068,14.1643638 L4.25259068,9.66436384 C3.88567266,9.25158107 3.92285339,8.6195087 4.33563616,8.25259068 C4.74841893,7.88567266 5.3804913,7.92285339 5.74740932,8.33563616 L9.017,12.014 L15.2689447,5.31768175 Z" id="直线" fill="#FFFFFF" fill-rule="nonzero"></path>
+    </g>
+</svg>

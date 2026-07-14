@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>img/img_email</title>
+    <defs>
+        <linearGradient x1="8.45771067%" y1="21.1707888%" x2="97.6079633%" y2="79.3345405%" id="linearGradient-1">
+            <stop stop-color="#467DE4" stop-opacity="0.90739729" offset="0%"></stop>
+            <stop stop-color="#B1CCFF" stop-opacity="0.9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-39.0458906%" y1="52.2786942%" x2="125.442322%" y2="41.4556175%" id="linearGradient-2">
+            <stop stop-color="#80ABFB" offset="0%"></stop>
+            <stop stop-color="#DAE7FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="img/img_email" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="矩形" fill="url(#linearGradient-1)" x="3" y="10" width="94" height="72" rx="10"></rect>
+        <path d="M13,10 L87,10 C92.5228475,10 97,14.4771525 97,20 L97,24 L97,24 L53.0403844,57.6711949 C51.2463608,59.0453406 48.7536392,59.0453406 46.9596156,57.6711949 L3,24 L3,24 L3,20 C3,14.4771525 7.4771525,10 13,10 Z" id="矩形" fill="url(#linearGradient-2)"></path>
+        <ellipse id="椭圆形" fill="#D8E6FF" cx="50" cy="95.5" rx="47" ry="3.5"></ellipse>
+    </g>
+</svg>

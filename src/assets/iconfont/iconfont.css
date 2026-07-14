@@ -1,0 +1,563 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 5100060 */
+  src: url('iconfont.woff2?t=1776852521585') format('woff2'),
+       url('iconfont.woff?t=1776852521585') format('woff'),
+       url('iconfont.ttf?t=1776852521585') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont", sans-serif !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ps-copy:before {
+  content: "\e689";
+}
+
+.ps-inbox-download:before {
+  content: "\e688";
+}
+
+.ps-a-ico-halfcheckmark:before {
+  content: "\e687";
+}
+
+.ps-ico-checkmarks:before {
+  content: "\e686";
+}
+
+.ps-workout-stretching:before {
+  content: "\e685";
+}
+
+.ps-sun-03:before {
+  content: "\e684";
+}
+
+.ps-moon:before {
+  content: "\e683";
+}
+
+.ps-moon2:before {
+  content: "\e682";
+}
+
+.ps-switch-on:before {
+  content: "\e681";
+}
+
+.ps-ico-uncheck:before {
+  content: "\e67e";
+}
+
+.ps-ico-checkmark:before {
+  content: "\e67f";
+}
+
+.ps-switch-off:before {
+  content: "\e680";
+}
+
+.ps-ico-add:before {
+  content: "\e67d";
+}
+
+.ps-ico-building:before {
+  content: "\e67c";
+}
+
+.ps-ico-alertreportmissfall:before {
+  content: "\e67b";
+}
+
+.ps-clock-02:before {
+  content: "\e67a";
+}
+
+.ps-ico-manageWorkOrders:before {
+  content: "\e678";
+}
+
+.ps-ico-manageResidents:before {
+  content: "\e679";
+}
+
+.ps-ico-close:before {
+  content: "\e676";
+}
+
+.ps-ico-open:before {
+  content: "\e677";
+}
+
+.ps-ico-insightsOther:before {
+  content: "\e675";
+}
+
+.ps-ico-orgnazeUp:before {
+  content: "\e673";
+}
+
+.ps-ico-orgnazeDown:before {
+  content: "\e674";
+}
+
+.ps-Monitor-ico-connect:before {
+  content: "\e672";
+}
+
+.ps-a-Monitor-ico-Doubleleftarrow:before {
+  content: "\e66f";
+}
+
+.ps-a-Alerts-ico-deviceAlerts:before {
+  content: "\e670";
+}
+
+.ps-a-Monitor-ico-Doublerightarrow:before {
+  content: "\e671";
+}
+
+.ps-a-Alerts-ico-soundon:before {
+  content: "\e66e";
+}
+
+.ps-admin-ico-user-group:before {
+  content: "\e65f";
+}
+
+.ps-Monitor-ico-Delete:before {
+  content: "\e660";
+}
+
+.ps-Alerts-ico-license:before {
+  content: "\e661";
+}
+
+.ps-a-admin-ico-UsersAdmins:before {
+  content: "\e662";
+}
+
+.ps-Monitor-ico-alert-02:before {
+  content: "\e663";
+}
+
+.ps-Insights-arrow-shrink-round:before {
+  content: "\e664";
+}
+
+.ps-admin-ico-setting:before {
+  content: "\e665";
+}
+
+.ps-a-Alerts-ico-upload-04:before {
+  content: "\e666";
+}
+
+.ps-a-Alerts-ico-oneuncheck:before {
+  content: "\e667";
+}
+
+.ps-a-admin-ico-ResidentProfiles:before {
+  content: "\e668";
+}
+
+.ps-Insights-ico-information-circle:before {
+  content: "\e669";
+}
+
+.ps-a-Alerts-ico-file-01:before {
+  content: "\e66a";
+}
+
+.ps-a-Alerts-ico-tick-02:before {
+  content: "\e66b";
+}
+
+.ps-a-Alerts-ico-download-04:before {
+  content: "\e66c";
+}
+
+.ps-admin-ico-refresh:before {
+  content: "\e66d";
+}
+
+.ps-Insights-ico-atomic-power:before {
+  content: "\e654";
+}
+
+.ps-a-SysOps-ico-:before {
+  content: "\e655";
+}
+
+.ps-a-Login-ico-downarrow:before {
+  content: "\e656";
+}
+
+.ps-a-Insights-ico-leftarrow:before {
+  content: "\e657";
+}
+
+.ps-Alerts-ico-date:before {
+  content: "\e658";
+}
+
+.ps-Monitor-ico-admin:before {
+  content: "\e659";
+}
+
+.ps-admin-ico-home-02:before {
+  content: "\e603";
+}
+
+.ps-Alerts-ico-alert-signal:before {
+  content: "\e65a";
+}
+
+.ps-a-Insights-ico-zoneoccupancy:before {
+  content: "\e65b";
+}
+
+.ps-Monitor-ico-arrow-data-transfer-vertical-round:before {
+  content: "\e65c";
+}
+
+.ps-Insights-ico-arrow-expand-sharp:before {
+  content: "\e65d";
+}
+
+.ps-a-Monitor-ico-right:before {
+  content: "\e65e";
+}
+
+.ps-Monitor-ico-location:before {
+  content: "\e64a";
+}
+
+.ps-Monitor-ico-credit-card:before {
+  content: "\e64b";
+}
+
+.ps-a-Monitor-ico-Doubleuparrow:before {
+  content: "\e64c";
+}
+
+.ps-Monitor-ico-alert-circle:before {
+  content: "\e64d";
+}
+
+.ps-Monitor-ico-edit:before {
+  content: "\e64e";
+}
+
+.ps-a-Monitor-ico-listupgrade:before {
+  content: "\e64f";
+}
+
+.ps-Monitor-ico-book-open-02:before {
+  content: "\e650";
+}
+
+.ps-Monitor-ico-cercle-02:before {
+  content: "\e651";
+}
+
+.ps-a-Login-ico-cercle:before {
+  content: "\e652";
+}
+
+.ps-Monitor-ico-eraser:before {
+  content: "\e653";
+}
+
+.ps-Monitor-ico-system-update-02:before {
+  content: "\e613";
+}
+
+.ps-Monitor-ico-insightsTop:before {
+  content: "\e614";
+}
+
+.ps-Monitor-ico-rotate-top-right:before {
+  content: "\e615";
+}
+
+.ps-a-Monitor-ico-ManageDevices:before {
+  content: "\e616";
+}
+
+.ps-Monitor-ico-language:before {
+  content: "\e618";
+}
+
+.ps-Monitor-ico-bed-double:before {
+  content: "\e61c";
+}
+
+.ps-Monitor-ico-security-password:before {
+  content: "\e63b";
+}
+
+.ps-Monitor-ico-bathtub:before {
+  content: "\e63c";
+}
+
+.ps-Monitor-ico-pin-hover:before {
+  content: "\e63d";
+}
+
+.ps-Monitor-ico-sheriff-02:before {
+  content: "\e63e";
+}
+
+.ps-Monitor-ico-pin-select:before {
+  content: "\e63f";
+}
+
+.ps-Monitor-ico-alerts:before {
+  content: "\e640";
+}
+
+.ps-Monitor-ico-uncheck:before {
+  content: "\e641";
+}
+
+.ps-Monitor-ico-integrate:before {
+  content: "\e642";
+}
+
+.ps-Insights-ico-breathing:before {
+  content: "\e604";
+}
+
+.ps-Monitor-ico-save-normal:before {
+  content: "\e643";
+}
+
+.ps-Monitor-ico-sysops:before {
+  content: "\e644";
+}
+
+.ps-Monitor-ico-add-normal:before {
+  content: "\e645";
+}
+
+.ps-Monitor-ico-search-normal:before {
+  content: "\e646";
+}
+
+.ps-Monitor-ico-monitor:before {
+  content: "\e647";
+}
+
+.ps-Monitor-ico-house:before {
+  content: "\e648";
+}
+
+.ps-Monitor-ico-clean:before {
+  content: "\e649";
+}
+
+.ps-a-Monitor-ico-uparrow:before {
+  content: "\e609";
+}
+
+.ps-Monitor-ico-door:before {
+  content: "\e607";
+}
+
+.ps-Monitor-ico-logout-01:before {
+  content: "\e60a";
+}
+
+.ps-Monitor-ico-filter-normal:before {
+  content: "\e608";
+}
+
+.ps-Monitor-ico-computer-desk:before {
+  content: "\e606";
+}
+
+.ps-SysOps-ico-tenantOrganizations:before {
+  content: "\e60b";
+}
+
+.ps-Monitor-ico-spaghetti:before {
+  content: "\e60c";
+}
+
+.ps-Monitor-ico-bubble-chat-question:before {
+  content: "\e605";
+}
+
+.ps-SysOps-ico-supportLinks:before {
+  content: "\e60d";
+}
+
+.ps-Monitor-ico-sofa:before {
+  content: "\e60e";
+}
+
+.ps-Monitor-ico-user:before {
+  content: "\e60f";
+}
+
+.ps-Monitor-ico-delete-02:before {
+  content: "\e610";
+}
+
+.ps-Monitor-ico-Kitchen:before {
+  content: "\e611";
+}
+
+.ps-Monitor-ico-setting-01:before {
+  content: "\e612";
+}
+
+.ps-Insights-ico-arrow-right:before {
+  content: "\e601";
+}
+
+.ps-ico-report1:before {
+  content: "\e638";
+}
+
+.ps-ico-integrationConfigure1:before {
+  content: "\e639";
+}
+
+.ps-ico-eventThread1:before {
+  content: "\e63a";
+}
+
+.ps-ico-eventThread:before {
+  content: "\e635";
+}
+
+.ps-ico-report:before {
+  content: "\e636";
+}
+
+.ps-ico-integrationConfigure:before {
+  content: "\e637";
+}
+
+.ps-ico-event:before {
+  content: "\e602";
+}
+
+.ps-ico-search:before {
+  content: "\e634";
+}
+
+.ps-ico-trushbin:before {
+  content: "\e633";
+}
+
+.ps-ico-check:before {
+  content: "\e631";
+}
+
+.ps-ico-delete:before {
+  content: "\e632";
+}
+
+.ps-ico-file:before {
+  content: "\e62e";
+}
+
+.ps-ico-download:before {
+  content: "\e62f";
+}
+
+.ps-ico-upload:before {
+  content: "\e630";
+}
+
+.ps-ico-noDevice:before {
+  content: "\e62d";
+}
+
+.ps-ico-edit:before {
+  content: "\e62c";
+}
+
+.ps-ico-integrate:before {
+  content: "\e62b";
+}
+
+.ps-ico-Delete:before {
+  content: "\e62a";
+}
+
+.ps-ico-sysops:before {
+  content: "\e625";
+}
+
+.ps-ico-insights:before {
+  content: "\e626";
+}
+
+.ps-ico-monitor:before {
+  content: "\e627";
+}
+
+.ps-ico-admin:before {
+  content: "\e628";
+}
+
+.ps-ico-alerts:before {
+  content: "\e629";
+}
+
+.ps-ico-tenantOrganizations:before {
+  content: "\e622";
+}
+
+.ps-ico-supportLinks:before {
+  content: "\e623";
+}
+
+.ps-ico-devices:before {
+  content: "\e624";
+}
+
+.ps-ico-usersAndAdmins:before {
+  content: "\e621";
+}
+
+.ps-ico-activity:before {
+  content: "\e61f";
+}
+
+.ps-ico-DeviceAlerts1:before {
+  content: "\e620";
+}
+
+.ps-ico-ResidentProfiles:before {
+  content: "\e61d";
+}
+
+.ps-ico-Groups:before {
+  content: "\e61e";
+}
+
+.ps-ico-AlertSettings:before {
+  content: "\e61b";
+}
+
+.ps-ico-ManageHomes:before {
+  content: "\e619";
+}
+
+.ps-ico-ManageDevices:before {
+  content: "\e61a";
+}
+
+.ps-ico-fall-nor:before {
+  content: "\e617";
+}
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic_card_avater</title>
+    <g id="后端管理" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="My-Account" transform="translate(-545, -240)">
+            <g id="编组-2" transform="translate(515, 50)">
+                <g id="编组" transform="translate(0, 160)">
+                    <g id="ic_card_avater" transform="translate(30, 30)">
+                        <circle id="椭圆形" fill="#E3E9FF" cx="40" cy="40" r="40"></circle>
+                        <g id="icon/ic_logout备份" transform="translate(13.3333, 13.3333)">
+                            <circle id="椭圆形" fill="#325BF2" cx="26.6666667" cy="15.5555556" r="11.1111111"></circle>
+                            <path d="M26.6666667,48.8888889 C38.9396611,48.8888889 48.8888889,47.2688792 48.8888889,41.7460317 C48.8888889,36.2231842 38.9396611,28.8888889 26.6666667,28.8888889 C14.3936722,28.8888889 4.44444444,36.2231842 4.44444444,41.7460317 C4.44444444,47.2688792 14.3936722,48.8888889 26.6666667,48.8888889 Z" id="椭圆形备份" fill="#325BF2"></path>
+                            <rect id="矩形" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="53.3333333" height="53.3333333"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>img/img_successfully</title>
+    <defs>
+        <linearGradient x1="11.3632886%" y1="4.09244116%" x2="97.6079633%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#3A79EE" offset="0%"></stop>
+            <stop stop-color="#A3C3FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="11.3632886%" y1="27.1256435%" x2="97.6079633%" y2="74.9134969%" id="linearGradient-2">
+            <stop stop-color="#3A79EE" offset="0%"></stop>
+            <stop stop-color="#A3C3FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="img/img_successfully" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <ellipse id="椭圆形" fill="#D8E6FF" cx="50" cy="95.5" rx="47" ry="3.5"></ellipse>
+        <circle id="椭圆形" fill="url(#linearGradient-1)" opacity="0.517981393" cx="23" cy="4" r="2"></circle>
+        <circle id="椭圆形备份" fill="#D8E6FF" cx="90" cy="78" r="2"></circle>
+        <circle id="椭圆形备份-2" fill="url(#linearGradient-1)" cx="11.5" cy="15.5" r="3.5"></circle>
+        <path d="M62.5083807,34.4210903 C64.484958,32.4927222 67.6505417,32.5318035 69.5789097,34.5083807 C71.4505611,36.4268234 71.4687935,39.4653594 69.6609943,41.4056106 L69.4916193,41.5789097 L48.9916193,61.5789097 C47.0916482,63.4325401 44.0888182,63.4705308 42.1436601,61.706218 L41.9644661,61.5355339 L29.9644661,49.5355339 C28.0118446,47.5829124 28.0118446,44.4170876 29.9644661,42.4644661 C31.8579172,40.571015 34.8921583,40.5136377 36.8547482,42.2923342 L37.0355339,42.4644661 L45.543,50.972 L62.5083807,34.4210903 Z" id="直线" fill="url(#linearGradient-2)"></path>
+        <path d="M50,8 C70.9868205,8 88,25.0131795 88,46 C88,66.9868205 70.9868205,84 50,84 C29.0131795,84 12,66.9868205 12,46 C12,25.0131795 29.0131795,8 50,8 Z M50,19 C35.0883118,19 23,31.0883118 23,46 C23,60.9116882 35.0883118,73 50,73 C64.9116882,73 77,60.9116882 77,46 C77,31.0883118 64.9116882,19 50,19 Z" id="形状结合" fill="url(#linearGradient-1)"></path>
+    </g>
+</svg>
