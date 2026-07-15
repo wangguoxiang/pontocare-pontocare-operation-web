@@ -24,7 +24,7 @@ spec:
       terminationGracePeriodSeconds: 30
       containers:
         - name: operation-web
-          image: registry.pontosense.net/pontocare/pontocare-operation-web:bbf745e
+          image: 148286033932.dkr.ecr.cn-north-1.amazonaws.com.cn/pontocare/pontocare-operation-web:bbf745e
           imagePullPolicy: Always
           ports:
             - containerPort: 80

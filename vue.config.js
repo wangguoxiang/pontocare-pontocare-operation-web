@@ -9,7 +9,7 @@ const Timestamp = new Date().getTime();
 console.log(`@@@@@@@`, process.env.NODE_ENV);
 
 module.exports = defineConfig({
-  publicPath: '',
+  publicPath: '/',
   configureWebpack: {
     devtool: process.env.NODE_ENV === 'development' ? 'source-map' : false,
     resolve: {
@@ -72,7 +72,6 @@ module.exports = defineConfig({
           BASE_URL: `/`
         },
         template: path.resolve('./public/index.html'),
-        inlineSource: '.(js|css)$',
         inject: 'body',
         recaptcha: process.env.VUE_APP_RECAPTCHA_ADDR,
         title: 'pontocare-operation-web'
