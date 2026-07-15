@@ -24,7 +24,7 @@ spec:
       terminationGracePeriodSeconds: 30
       containers:
         - name: operation-web
-          image: 148286033932.dkr.ecr.cn-north-1.amazonaws.com.cn/pontocare/pontocare-operation-web:bbf745e
+          image: 148286033932.dkr.ecr.cn-north-1.amazonaws.com.cn/pontocare/pontocare-operation-web:v1.0.0
           imagePullPolicy: Always
           ports:
             - containerPort: 80
@@ -101,10 +101,12 @@ metadata:
   name: pontocare-operation-web
   namespace: pontocare
   annotations:
-    higress.io/ssl-redirect: "true"
-    higress.io/proxy-body-size: "8m"
+    alb.ingress.kubernetes.io/scheme: internet-facing
+    alb.ingress.kubernetes.io/target-type: ip
+    alb.ingress.kubernetes.io/listen-ports: '[{"HTTP": 80}, {"HTTPS": 443}]'
+    alb.ingress.kubernetes.io/ssl-redirect: "443"
 spec:
-  ingressClassName: higress
+  ingressClassName: alb
   tls:
     - hosts:
         - www.zhijia365.cn
