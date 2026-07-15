@@ -35,7 +35,9 @@ export default {
   actions: {
     getServerList({ commit }) {
       http.getServerList().then((res) => {
-        commit(SET_SERVER_LIST, res);
+        // 兼容多种 API 返回格式：直接返回数组，或包裹在 { data: [...] } / { records: [...] } 中
+        const list = Array.isArray(res) ? res : (res.data || res.records || []);
+        commit(SET_SERVER_LIST, list);
       });
     }
   },
@@ -44,7 +46,7 @@ export default {
       return state.keepLogin;
     },
     getCurrentServer(state) {
-      if (state.serverList && state.serverList.length > 0) {
+      if (Array.isArray(state.serverList) && state.serverList.length > 0) {
         const currentEndPoint = window.location.protocol + '//' + window.location.host;
         return state.serverList.find(item => item.endpoint.includes(currentEndPoint)) || {};
       } else {
